@@ -1,1 +1,1 @@
-$(document).ready(function(){console.log("Hey")});
+$(document).ready(function(){});
